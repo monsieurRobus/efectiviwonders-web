@@ -1,0 +1,179 @@
+/*
+Theme Name: Wedding Band
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right_to_Left_Language_Support
+
+*/
+
+body {
+    direction: rtl;
+    unicode-bidi: embed;
+}
+
+.site-branding{
+	float: right;
+}
+
+.main-navigation{
+	float: left;
+}
+
+.main-navigation li{
+	float: right;
+	margin-right: 60px;
+	margin-left: 0;
+}
+
+.main-navigation li:first-child{
+	margin-right: 0;
+}
+
+.main-navigation ul ul,
+.main-navigation ul ul ul {
+    display: none;
+    padding: 0;
+}
+
+.main-navigation ul li:hover > ul {
+    left: auto;
+    right:0;
+    display: block;
+}
+
+.main-navigation ul ul li:hover > ul {
+    left: auto;
+    right: 100%;
+    display: block;
+}
+
+.main-navigation ul ul li{
+	margin-right: 0;
+}
+
+.main-navigation ul ul a{
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+.section-1 .column-2{
+	float: left;
+}
+
+.section-1 .column-1,
+.blog-section .col,
+.section-2 .col,
+.contact-section .col,
+.contact-section .col-1{
+	float: right;
+}
+
+.blog-section .post .post-thumbnail::after{
+	left: auto;
+	right: 36px;
+}
+
+.blog-section .post .entry-meta .fa,
+.contact-section .text .fa{
+	margin-right: 0;
+	margin-left: 10px;
+}
+.blog-section .post .entry-meta span{
+	margin-right: 0;
+	margin-left: 25px;
+}
+
+.wpcf7{
+	direction: rtl;
+}
+
+.site-footer .footer-t .column{
+	float: right;
+}
+
+.widget-area .widget .post .post-thumbnail, .site-footer .widget .post .post-thumbnail{
+	float: right;
+	margin-right: 0;
+	margin-left: 18px;
+}
+
+.widget.widget_wedding_band_social_links ul li{
+	float: right;
+	margin-left: 0;
+	margin-right: 15px;
+}
+
+.widget.widget_wedding_band_social_links ul li:first-child{
+	margin-right: 0;
+}
+
+.site-content #primary .entry-meta span{
+	display: inline-block;
+}
+
+.site-content #primary .entry-meta span{
+	margin-right: 0;
+	margin-left: 26px;
+}
+
+.site-content #primary .entry-meta span .fa{
+	margin-right: 0;
+	margin-left: 10px;
+}
+
+.comment-author.vcard{
+	float: right;
+}
+
+.comment-content{
+	margin-left: 0;
+	margin-right: 100px;
+}
+
+.avatar.photo{
+	float: right;
+	margin-right: 0;
+	margin-left: 20px;
+}
+
+.reply a{
+	margin-right: 86px;
+	margin-left: 0;
+}
+
+.comment-metadata{
+	float: left;
+}
+
+.says{
+	display: inline-block;
+}
+
+.widget.widget_search form input[type="search"]{
+	float: right;
+}
+
+.widget.widget_search form input[type="submit"]{
+	float: left;
+	background-position: 100% 20px;
+}
+
+.comment-navigation .nav-previous, .posts-navigation .nav-previous, .post-navigation .nav-previous{
+	float: right;
+}
+
+.site-content #primary .entry-content blockquote{
+	background-position: calc(100% - 20px) 0;
+
+}
+
+.jcf-file .jcf-upload-button{
+	float: right;
+}
+
+.tags a{
+	display: inline-block;
+}
