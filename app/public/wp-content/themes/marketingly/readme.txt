@@ -1,21 +1,23 @@
 # Marketingly
 
-Contributors: themeeverest
-Requires at least: 4.0
-Tested up to: 5.9
-Requires PHP: 4.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+**Contributors:** themeeverest  
+**Requires at least:** WordPress 4.0  
+**Tested up to:** WordPress 4.9.8  
+**Stable tag:** 1.0  
+**Version:** 1.0
+**License:** GPLv2 or later  
+**License URI:** http://www.gnu.org/licenses/gpl-2.0.html  
+**Tags:** two-columns, right-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu, custom-logo, featured-images, footer-widgets, theme-options, threaded-comments, translation-ready, blog, entertainment, news
 
-It does not matter if you want to create a classic news website, online editorial magazine, a personal modern lifestyle blog, or an affiliate review website. Marketingly offers limitless customization. The theme is a perfect combination of beautiful and professional. There is a ton of ad space, you can use the header widgets to place ads banners and AdSense in case you need to earn money as an affiliate - No matter if it is image ads advertisment or video advertising, all ad networks work such as Google DFP Ads, Adsense and more. Our theme is made for the search engines, so you can easily beat the other bloggers and newspapers in Google with our fast and SEO optimized theme. If you wish to start blogging about business or travel for example then our responsive and flexible design is perfect - It is elegant and you can make it dark, white, minimal, boxed, flat, clean, or advanced, and full of sidebar widgets if you wish. Being creative and setting up a theme have never been so simple.
+It does not matter if you want to create classic news website, online editorial magazine, a personal modern lifestyle blog or an affiliate review website. Marketingly offers limitless customization. The theme is a perfect combination of beautiful and professional. There is a ton of ad space, you can use the header widgets to place ads banners and adsense in case you need to earn money as an affiliate - No matter if it is image ads advertisment or video advertising, all ad networks work such as Google DFP Ads, adsense and more. Our theme is made for the search engines, so you can easily beat the other bloggers and newspapers in Google with our fast and SEO optimized theme. If you wish to start blogging about business or travel for example then our responsive and flexible design is perfect - It is elegant and you can make it dark, white, minimal, boxed, flat, clean or advanced and full of sidebar widgets if you wish. Being creative and setting up a theme has never been so simple.
 
 ## Description
 
-It does not matter if you want to create a classic news website, online editorial magazine, a personal modern lifestyle blog, or an affiliate review website. Marketingly offers limitless customization. The theme is a perfect combination of beautiful and professional. There is a ton of ad space, you can use the header widgets to place ads banners and AdSense in case you need to earn money as an affiliate - No matter if it is image ads advertisment or video advertising, all ad networks work such as Google DFP Ads, Adsense and more. Our theme is made for the search engines, so you can easily beat the other bloggers and newspapers in Google with our fast and SEO optimized theme. If you wish to start blogging about business or travel for example then our responsive and flexible design is perfect - It is elegant and you can make it dark, white, minimal, boxed, flat, clean, or advanced, and full of sidebar widgets if you wish. Being creative and setting up a theme have never been so simple.
+It does not matter if you want to create classic news website, online editorial magazine, a personal modern lifestyle blog or an affiliate review website. Marketingly offers limitless customization. The theme is a perfect combination of beautiful and professional. There is a ton of ad space, you can use the header widgets to place ads banners and adsense in case you need to earn money as an affiliate - No matter if it is image ads advertisment or video advertising, all ad networks work such as Google DFP Ads, adsense and more. Our theme is made for the search engines, so you can easily beat the other bloggers and newspapers in Google with our fast and SEO optimized theme. If you wish to start blogging about business or travel for example then our responsive and flexible design is perfect - It is elegant and you can make it dark, white, minimal, boxed, flat, clean or advanced and full of sidebar widgets if you wish. Being creative and setting up a theme has never been so simple.
 
 
 ## Copyright
-Marketingly WordPress Theme, Copyright 2022 themeeverest
+Marketingly WordPress Theme, Copyright 2018 themeeverest
 Marketingly is distributed under the terms of the GNU GPL
 
 Marketingly bundles the following third-party resources:
@@ -34,20 +36,8 @@ GNU General Public License for more details.
 ______
 IMG FROM SCREENSHOT
 CC0 License
-Images included in the theme:
-✓ Free for personal and commercial use
-✓ No attribution required
-- https://pxhere.com/en/photo/99158
-- https://pxhere.com/en/photo/1369816
-- https://pxhere.com/en/photo/99158
-- https://pxhere.com/en/photo/19992
-- https://stocksnap.io/photo/flowchart-whiteboard-CDC8HFPYWR
-- https://pxhere.com/en/photo/693722
-- https://stocksnap.io/photo/laptop-mac-OR7D4PANCK
-- https://pxhere.com/en/photo/644378
-- https://pxhere.com/en/photo/424
-- https://stocksnap.io/photo/snow-winter-08AWR4SOM9
-- https://pxhere.com/en/photo/111204
+
+Included in theme & screenshot: https://pxhere.com/en/photo/111204
 
 
 Bootstrap - http://getbootstrap.com/

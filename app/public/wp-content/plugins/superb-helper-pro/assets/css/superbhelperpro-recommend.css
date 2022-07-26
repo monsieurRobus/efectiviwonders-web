@@ -1,0 +1,33 @@
+.superbhelperpro-recommend-wrap {
+  margin: 10px 20px 0 2px !important;
+}
+
+.superbhelperpro-recommend-italic {
+  font-style: italic !important;
+}
+
+.superbhelperpro-recommend-wp-heading-inline {
+  font-size: 23px !important;
+  font-weight: 400 !important;
+  margin: 0 !important;
+  padding: 9px 0 4px 0 !important;
+  line-height: 1.3 !important;
+  display: inline-block !important;
+  margin-right: 5px !important;
+}
+
+.superbhelperpro-recommend-wp-filter {
+  margin-bottom: 0px !important;
+}
+
+.superbhelperpro-recommend-column-compatibility {
+  width: 100% !important;
+}
+.superbhelper-recommend-install-now .dashicons {
+  font-size: 16px !important;
+  margin-top: 5px !important;
+}
+
+.spbhlp-card-bottom {
+  background-color: #faf8ff !important;
+}

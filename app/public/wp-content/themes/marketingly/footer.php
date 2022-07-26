@@ -38,13 +38,17 @@
 		</div>
 
 		<div class="site-info">
+		    <?php if (get_theme_mod('footer_copyright_text') ) : ?>
+        <?php echo wp_kses_post(get_theme_mod('footer_copyright_text')) ?>
+    <?php else : ?>
 			&copy;<?php echo date('Y'); ?> <?php bloginfo( 'name' ); ?>
-			<!-- Delete below lines to remove copyright from footer -->
-			<span class="footer-info-right">
-			<?php echo __(' | Powered by WordPress and', 'marketingly') ?> <a href="<?php echo esc_url('https://superbthemes.com/', 'marketingly'); ?>"><?php echo __('Superb Themes!', 'marketingly') ?></a>
-			</span>
-			<!-- Delete above lines to remove copyright from footer -->
+							<!-- Delete below lines to remove copyright from footer -->
+				<span class="footer-info-right">
+					<?php echo __(' | Powered by WordPress and', 'marketingly') ?> <a href="<?php echo esc_url('https://superbthemes.com/', 'marketingly'); ?>"><?php echo __(' Superb Themes!', 'marketingly') ?></a>
+				</span>
+				<!-- Delete above lines to remove copyright from footer -->
 
+			<?php endif; ?>
 		</div><!-- .site-info -->
 	</div>
 
