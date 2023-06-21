@@ -1,0 +1,21 @@
+section {
+    height: 85vh;
+    width: 100%;
+    background-color:aqua;
+}
+
+h1 {
+
+}
+h2 {
+}
+button{
+}
+img {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    top: 15vh;
+    z-index: 0;
+
+}
