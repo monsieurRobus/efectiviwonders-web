@@ -1,0 +1,17 @@
+svg {
+    font-size: 2rem;
+}
+
+.iconSection {
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: auto;
+    height: auto;
+    padding: 1rem 0;
+    background-color: #f5f5f5;
+    text-align: center;
+    margin: 0;
+}
